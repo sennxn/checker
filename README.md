@@ -1,2 +1,2 @@
 # checker
-checker cc/gg
+cc/gg/bin checker
